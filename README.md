@@ -3,7 +3,7 @@ Javascript-Stars-Generator
 
 This is a simple Canvas-based script to generate random star images
 
-DEMO: [daraeman.github.com/Javascript-Stars-Generator](daraeman.github.com/Javascript-Stars-Generator)
+DEMO: [https://daraeman.github.com/Javascript-Stars-Generator](https://daraeman.github.com/Javascript-Stars-Generator)
 
 The background is transparent so the stars can be overlayed on pretty much anything.
 As is it sets the body background-image to the overlay.
